@@ -10,7 +10,7 @@ revealOptions:
 ### ITSE-1402 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 6: Chapter 12: Tuples</span>
 <br /><br />
-##### [https://coder.run/1402-class6](https://coder.run/1402-class6)
+##### [https://bit.ly/1402-class6](https://bit.ly/1402-class6)
 
 -----
 
@@ -18,7 +18,7 @@ revealOptions:
 
 +++++
 
-[https://coder.run/1402-chap12](https://coder.run/1402-chap12)
+[https://bit.ly/1402-chap12](https://bit.ly/1402-chap12)
 
 +++++
 
