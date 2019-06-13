@@ -43,7 +43,7 @@ Empty tuples can be created in two ways:
 - using braces
 
 ```python
-myTuple = dict()   # Empty tuple using built-in
+myTuple = tuple()   # Empty tuple using built-in
 myTuple2 = ()      # Empty tuple using parentheses
 ```
 
@@ -413,4 +413,4 @@ For example, a telephone directory might map from last-name, first-name pairs to
 
 +++++
 
-Exercise 12.3 and 12.4 are homework. You may do a CodeFights Challenge for extra credit
+Exercise 12.3 and 12.4 are homework.
