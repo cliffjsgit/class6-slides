@@ -10,25 +10,7 @@ revealOptions:
 ### ITSE-1402 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 6: Chapter 12: Tuples</span>
 <br /><br />
-##### [https://bit.ly/1402-class6](https://bit.ly/1402-class6)
-
 -----
-
-##### Chapter 12: Tuples
-
-+++++
-
-[https://bit.ly/1402-chap12](https://bit.ly/1402-chap12)
-
-+++++
-
-#### Testing Knowledge!
-
-- What are two ways to create a dictionary?
-- What data types can a dictionary key be?
-- What data types can the object to a dictionary key be?
-- What are the 3 ways we discussed to get a object from a dictionary and what are their differences?
-- When you interate through a dictionary, what are you receiving back?
 
 +++++
 
