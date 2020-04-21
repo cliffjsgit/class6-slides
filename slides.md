@@ -16,17 +16,18 @@ revealOptions:
 
 ##### Tuples
 
-Tuples are essentially lists and operate the same in many ways as a list, however they are immutable. Meaning they cannot be modified.
+Tuples are essentially lists and operate the same in many ways as a list, however they are immutable. 
+Meaning they cannot be modified.
 
 +++++
 
 Empty tuples can be created in two ways:
 - using the built-in function tuple
-- using braces
+- using parentheses
 
 ```python
 myTuple = tuple()   # Empty tuple using built-in
-myTuple2 = ()      # Empty tuple using parentheses
+myTuple2 = ()       # Empty tuple using parentheses
 ```
 
 +++++
