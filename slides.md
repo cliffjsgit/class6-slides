@@ -17,7 +17,7 @@ revealOptions:
 ##### Tuples
 
 Tuples are essentially lists and operate the same in many ways as a list, however they are immutable. 
-Meaning they cannot be modified.
+Since they are immutable they cannot be modified.
 
 +++++
 
@@ -75,7 +75,7 @@ t[0] = 'A'
 # TypeError: object doesn't support item assignment
 ```
 
-Because tuples are immutable,  you can’t modify the elements.  But you can replace one tuple with another:
+Because tuples are immutable, you can’t modify the elements.  But you can replace one tuple with another:
 
 ```python
 t = ('A',) + t[1:]
