@@ -356,14 +356,6 @@ For example, a telephone directory might map from last-name, first-name pairs to
 
 # Exercise 12.2
 #
-# Grading Guidelines:
-# - No answer variable is needed. Grading script will call function.
-# - Function "anagram_finder" should return a list of of all the sets of 
-# words that are anagrams.
-# - Function "anagram_finder2" should return a list of of all the sets of 
-# words that are anagrams in ascencing order by number of anagrams. 
-# - Function "anagram_bingo" should return a list containing the collection 
-# of 8 letters that forms the most possible bingos
 #
 # 1. Write a function named "anagram_finder" that reads a word list 
 # from a file and returns a list of all the sets of words that are anagrams.
