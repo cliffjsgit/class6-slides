@@ -7,7 +7,7 @@ revealOptions:
     transition: 'fade'
 ---
 
-### ITSE-1402 Intermediate Python
+### ITSE-1042 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 6: Chapter 12: Tuples</span>
 <br /><br />
 -----
